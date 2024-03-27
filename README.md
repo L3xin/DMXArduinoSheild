@@ -1,2 +1,2 @@
 # DMXArduinoSheild
-This is the DIY DMX sheild documentatuion
+This is the DIY DMX shield documentation
